@@ -31,7 +31,7 @@ const count = ref(0)
     in your IDE for a better DX
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
-  <a href="rocketleague.com">Broken Link</a>
+  <a href="https://www.rocketleagueeee.com/" target="_blank">Broken Link</a>
 </template>
 
 <style scoped>
